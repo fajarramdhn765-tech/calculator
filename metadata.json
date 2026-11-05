@@ -1,0 +1,6 @@
+{
+  "name": "Jz Calculator",
+  "description": "Modern futuristic and scientific calculator with clean typography, history, sound effects, and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
